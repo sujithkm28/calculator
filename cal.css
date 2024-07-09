@@ -1,0 +1,28 @@
+body{
+    background-image: url('purple-abstract-hy35jt9huidattv9.webp');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+table{
+    
+    background-size: cover;
+    background-image: url('purple-abstract-hy35jt9huidattv9.webp');
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45vh;
+    color: bisque;
+}
+
+h2{
+    background-image: url('purple-abstract-hy35jt9huidattv9.webp');
+}
